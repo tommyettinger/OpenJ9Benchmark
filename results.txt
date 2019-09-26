@@ -1,0 +1,93 @@
+D:\OtherCode\J9Benchmark\desktop\build\libs>"C:\Program Files\Zulu\jdk11_j9\bin\java.exe" -version
+openjdk version "11" 2018-09-25
+OpenJDK Runtime Environment AdoptOpenJDK (build 11+28)
+Eclipse OpenJ9 VM AdoptOpenJDK (build openj9-0.10.0, JRE 11 Windows 7 amd64-64-Bit Compressed References 20181003_41 (JIT enabled, AOT enabled)
+OpenJ9   - e44c4716
+OMR      - 32df9563
+JCL      - eeda2c2d02 based on jdk-11+28)
+
+D:\OtherCode\J9Benchmark\desktop\build\libs>"C:\Program Files\AdoptOpenJDK\jdk-12.0.2.10-openj9\bin\java.exe" -version
+openjdk version "12.0.2" 2019-07-16
+OpenJDK Runtime Environment AdoptOpenJDK (build 12.0.2+10)
+Eclipse OpenJ9 VM AdoptOpenJDK (build openj9-0.15.1, JRE 12 Windows 7 amd64-64-Bit Compressed References 20190718_139 (JIT enabled, AOT enabled)
+OpenJ9   - 0f66c6431
+OMR      - ec782f26
+JCL      - 06c2cc3322 based on jdk-12.0.2+10)
+
+D:\OtherCode\J9Benchmark\desktop\build\libs>"C:\Program Files\Zulu\jdk11_j9\bin\java.exe" -jar J9Benchmark.jar
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.lwjgl.LWJGLUtil$3 (file:/D:/OtherCode/J9Benchmark/desktop/build/libs/J9Benchmark.jar) to method java.lang.ClassLoader.findLibrary(java.lang.String)
+WARNING: Please consider reporting this to the maintainers of org.lwjgl.LWJGLUtil$3
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[FPSLogger] fps: 0
+864 / 432
+[FPSLogger] fps: 432
+918 / 459
+[FPSLogger] fps: 459
+948 / 474
+[FPSLogger] fps: 474
+830 / 415
+[FPSLogger] fps: 415
+876 / 438
+[FPSLogger] fps: 438
+986 / 493
+[FPSLogger] fps: 493
+948 / 474
+[FPSLogger] fps: 474
+986 / 493
+[FPSLogger] fps: 493
+1042 / 521
+[FPSLogger] fps: 521
+1024 / 512
+[FPSLogger] fps: 512
+1022 / 511
+[FPSLogger] fps: 511
+1030 / 515
+[FPSLogger] fps: 515
+1014 / 507
+[FPSLogger] fps: 507
+
+D:\OtherCode\J9Benchmark\desktop\build\libs>"C:\Program Files\AdoptOpenJDK\jdk-12.0.2.10-openj9\bin\java.exe" -jar J9Benchmark.jar
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.lwjgl.LWJGLUtil$3 (file:/D:/OtherCode/J9Benchmark/desktop/build/libs/J9Benchmark.jar) to method java.lang.ClassLoader.findLibrary(java.lang.String)
+WARNING: Please consider reporting this to the maintainers of org.lwjgl.LWJGLUtil$3
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[FPSLogger] fps: 0
+432 / 216
+[FPSLogger] fps: 216
+438 / 219
+[FPSLogger] fps: 219
+452 / 226
+[FPSLogger] fps: 226
+452 / 226
+[FPSLogger] fps: 226
+452 / 226
+[FPSLogger] fps: 226
+456 / 228
+[FPSLogger] fps: 228
+446 / 223
+[FPSLogger] fps: 223
+438 / 219
+[FPSLogger] fps: 219
+456 / 228
+[FPSLogger] fps: 228
+454 / 227
+[FPSLogger] fps: 227
+446 / 223
+[FPSLogger] fps: 223
+430 / 215
+[FPSLogger] fps: 215
+466 / 233
+[FPSLogger] fps: 233
+446 / 223
+[FPSLogger] fps: 223
+460 / 230
+[FPSLogger] fps: 230
+458 / 229
+[FPSLogger] fps: 229
+456 / 228
+[FPSLogger] fps: 228
+466 / 233
+[FPSLogger] fps: 233
